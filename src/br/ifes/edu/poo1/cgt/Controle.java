@@ -11,6 +11,6 @@ package br.ifes.edu.poo1.cgt;
  * @author Henrique
  */
 public class Controle {
+    private int i;
     private int t;
-    private int papo;
 }
