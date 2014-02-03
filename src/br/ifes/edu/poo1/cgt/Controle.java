@@ -12,4 +12,5 @@ package br.ifes.edu.poo1.cgt;
  */
 public class Controle {
     private int t;
+    private int papo;
 }
